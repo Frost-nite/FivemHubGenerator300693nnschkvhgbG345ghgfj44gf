@@ -1,0 +1,5 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.leak.sx	TRUE	/	FALSE	1999999999	__cfduid	d8179880284d1ea84072e0ff35392f5471618224810
+leak.sx	TRUE	/	FALSE	1999999999	SameSite	Lax
+
